@@ -20,23 +20,23 @@
 
 #  References:
 
- Anaconda Distribution https://www.anaconda.com/
+ Anaconda Distribution- https://www.anaconda.com/
 
- Python Software Foundation https://www.python.org/
+ Python Software Foundation- https://www.python.org/
 
- Project Jupyter https://jupyter.org/
+ Project Jupyter- https://jupyter.org/
 
- Seaborn: statistical data visualization https://seaborn.pydata.org/index.html#
+ Seaborn- statistical data visualization- https://seaborn.pydata.org/index.html#
 
- Matplotlib: Python plotting library https://matplotlib.org/
+ Matplotlib- Python plotting library- https://matplotlib.org/
 
- The Tips dataset from Michael Waskom https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
+ The Tips dataset from Michael Waskom- https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
  
-What is Regression Analysis and Why Should I Use It?: https://www.surveygizmo.com/resources/blog/regression-analysis/
+What is Regression Analysis and Why Should I Use It?:- https://www.surveygizmo.com/resources/blog/regression-analysis/
 
-A refresher on regression analysis: https://hbr.org/2015/11/a-refresher-on-regression-analysis 
+A refresher on regression analysis-  https://hbr.org/2015/11/a-refresher-on-regression-analysis 
 
-www. you tube.com
+www.youtube.com
 
 sklearn.model_selection.train_test_split: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 
