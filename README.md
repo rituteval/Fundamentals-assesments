@@ -39,6 +39,10 @@ A refresher on regression analysis-  https://hbr.org/2015/11/a-refresher-on-regr
 www.youtube.com
 
 sklearn.model_selection.train_test_split: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+www. you tube.com
+www.psychology.emory.edu
+https://www.analyticsvidhya.com
+https://towardsdatascience.com
 
 
 
